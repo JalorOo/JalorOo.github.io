@@ -13,7 +13,7 @@
 ## 下载途径
 PC:
 
-* 内测中
+* [官方下载](https://pc.miad.top)
 
 iOS:
 * [Apple](https://apps.apple.com/cn/app/%E5%96%B5%E6%BB%B4/id1497445971)
